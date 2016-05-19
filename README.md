@@ -100,6 +100,7 @@
 - [Unbalanced classification using RandomForestClassifier in sklearn](http://stackoverflow.com/questions/20082674/unbalanced-classification-using-randomforestclassifier-in-sklearn)
 - [Random Forest with categorical features in sklearn](http://stackoverflow.com/questions/24715230/random-forest-with-categorical-features-in-sklearn)
 - [How to output RandomForest Classifier from python?](http://stackoverflow.com/questions/23000693/how-to-output-randomforest-classifier-from-python)
+- [DataCamp Python Tutorial with Random Forests](https://www.datacamp.com/courses/kaggle-python-tutorial-on-machine-learning)
 
 ##Support Vector Machine in Python
 - [Fastest SVM implementation usable in Python](http://stackoverflow.com/questions/9299346/fastest-svm-implementation-usable-in-python)
@@ -113,6 +114,7 @@
 
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
+- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python for Data Science: Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [**5 important Python Data Science advancements of 2015**](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
