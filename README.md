@@ -25,7 +25,7 @@
     - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
 
 ##Data Science with Python
-- [**Data Science IPython Notebooks**](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [**Data Science IPython Notebooks**](https://github.com/donnemartin/data-science-ipython-notebooks) Started
 - [Awesome Python - Data Analysis](https://github.com/vinta/awesome-python#science-and-data-analysis)
 - Statistics
   - [Statistics and Data Science](https://github.com/svaksha/pythonidae/blob/master/Statistics.md)
