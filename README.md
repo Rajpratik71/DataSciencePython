@@ -179,6 +179,7 @@
 - [Unbalanced classification using RandomForestClassifier in sklearn](http://stackoverflow.com/questions/20082674/unbalanced-classification-using-randomforestclassifier-in-sklearn)
 - [Random Forest with categorical features in sklearn](http://stackoverflow.com/questions/24715230/random-forest-with-categorical-features-in-sklearn)
 - [How to output RandomForest Classifier from python?](http://stackoverflow.com/questions/23000693/how-to-output-randomforest-classifier-from-python)
+- [DataCamp Python Tutorial with Random Forests](https://www.datacamp.com/courses/kaggle-python-tutorial-on-machine-learning)
 - [Lesson notebook: Ensembling, Bagging, and Random Forests](http://nbviewer.jupyter.org/github/justmarkham/DAT8/blob/master/notebooks/18_ensembling.ipynb)
 
 ## Support Vector Machine in Python
@@ -190,7 +191,44 @@
 - [Linear SVC Machine learning SVM example with Python](https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/)
 - [Understanding Support Vector Machine algorithm from examples (along with code)](http://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
 
-## NLP / Text Mining in Python
+
+##Data Science with Python
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Python for Data Science: Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
+- [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
+- [**5 important Python Data Science advancements of 2015**](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
+- [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
+- [Querying Craiglist with Python](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
+- [**An introduction to Numpy and Scipy**](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
+- [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
+- [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
+- [**How do I learn data analysis with Python?**](https://www.quora.com/How-do-I-learn-data-analysis-with-Python?redirected_qid=2464720)
+- [What are some interesting things to do with Python?](https://www.quora.com/Python-programming-language-What-are-some-interesting-things-to-do-with-Python?redirected_qid=2324227)
+- [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
+- [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
+
+##Pandas Library in Python
+- [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+- [10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+- [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
+- [**“Large data” work flows using pandas**](http://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas)
+- Quick Operations on a Pandas DataFrame
+    - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
+    - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
+    - [Adding new Column to existing DataFrame](http://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
+    - [Add one Row in a pandas.DataFrame](http://stackoverflow.com/questions/10715965/add-one-row-in-a-pandas-dataframe)
+    - [Changing the order of DataFrame Columns](http://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns)
+    - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns)
+    - [Getting a list of the column headers from a DataFrame](http://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
+    - [Converting list of dictionaries to Dataframe](http://stackoverflow.com/questions/20638006/convert-list-of-dictionaries-to-dataframe)
+    - [Getting row count of pandas DataFrame](http://stackoverflow.com/questions/15943769/how-to-get-row-count-of-pandas-dataframe)
+    - [Most efficient way to loop through DataFrames](http://stackoverflow.com/questions/7837722/what-is-the-most-efficient-way-to-loop-through-dataframes-with-pandas)
+    - [Deleting DataFrame row based on column value](http://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
+    - [Dropping a list of rows from Pandas DataFrame](http://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe)
+
+
+##Text Mining in Python
 - [**NLP with Python ORiley Book**](http://www.nltk.org/book_1ed/), [Python 3](http://www.nltk.org/book/)
 - [Awesome Python - NLP](https://github.com/vinta/awesome-python#natural-language-processing)
 - [Awesome Python - Text Processing](https://github.com/vinta/awesome-python#text-processing)
