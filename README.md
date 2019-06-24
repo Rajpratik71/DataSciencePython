@@ -250,3 +250,6 @@
 - [python github projects - Collect and classify python projects on Github](https://github.com/checkcheckzz/python-github-projects)
 - [python reference - Useful functions, tutorials, and other Python-related things](https://github.com/rasbt/python_reference)
 - [pythonidae - Curated decibans of scientific programming resources in Python](https://github.com/svaksha/pythonidae)
+
+##Azure Machine Learning with HDInsight
+- [**How to use Python components in an Apache Storm topology on HDInsight**](https://github.com/Azure-Samples/hdinsight-python-storm-wordcount)
